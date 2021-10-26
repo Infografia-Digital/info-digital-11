@@ -1,6 +1,8 @@
 # Riñihuazo
 El Riñihuazo es el nombre dado al bloqueo del río San Pedro que provocó un aumento de volumen en el lago Riñihue tras el terremoto de Valdivia de 1960. 
 
+[vinculo] (https://conectaresiliencia.cl/el-rinihuazo-en-datos/)
+
 ## Lago Riñihue
 El lago Riñihue es un lago precordillerano en la provincia de Valdivia en el sur de Chile. Desagua en el río San Pedro, y se alimenta de las aguas de siete lagos a través del río Enco que lo une con el lago Panguipulli.
 
@@ -9,3 +11,4 @@ A las 15:11 del domingo 22 de mayo de 1960, comenzó a producirse una ruptura te
 
 ## Causas
 Bloqueo de la cuenca del río Valdivia entre Riñihue y Calle-calle por desbordamientos de cerros en el camino. Composición de la tierra principalmente de cancagua inestable. Considerar la deforestación y creación de caminos en la zona que pueden llevar a un desastre similar. 
+
